@@ -18,8 +18,8 @@ The core is AGPL-3.0, free, with no limit on nodes.
 | Repository | What's in it |
 | --- | --- |
 | [nebla](https://github.com/nebla-cloud/nebla) | The panel, REST API and CLI |
-| [nebla-site](https://github.com/nebla-cloud/nebla-site) | The source of [nebla.io](https://nebla.io) |
+| [nebla-site](https://github.com/nebla-cloud/nebla-site) | The source of [nebla.dev](https://nebla.dev) |
 
-Start with the [install guide](https://nebla.io/install), read the [docs](https://nebla.io/docs), or ask in
+Start with the [install guide](https://nebla.dev/install), read the [docs](https://nebla.dev/docs), or ask in
 [Discussions](https://github.com/nebla-cloud/nebla/discussions). Contributions are welcome: see
 [CONTRIBUTING.md](https://github.com/nebla-cloud/nebla/blob/main/CONTRIBUTING.md).
